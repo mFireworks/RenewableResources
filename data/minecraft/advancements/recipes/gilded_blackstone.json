@@ -1,0 +1,34 @@
+{
+    "criteria": {
+      "has_gilded_blackstone": {
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:gilded_blackstone",
+                "minecraft:blackstone"
+              ]
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      },
+      "has_the_recipe": {
+        "conditions": {
+          "recipe": "gilded_blackstone"
+        },
+        "trigger": "minecraft:recipe_unlocked"
+      }
+    },
+    "requirements": [
+      [
+        "has_gilded_blackstone",
+        "has_the_recipe"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "gilded_blackstone"
+      ]
+    }
+  }

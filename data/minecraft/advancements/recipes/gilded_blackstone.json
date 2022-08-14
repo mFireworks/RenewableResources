@@ -6,7 +6,9 @@
             {
               "items": [
                 "minecraft:gilded_blackstone",
-                "minecraft:blackstone"
+                "minecraft:blackstone",
+                "minecraft:gold_nugget",
+                "minecraft:gold_ingot"
               ]
             }
           ]

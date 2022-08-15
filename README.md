@@ -28,6 +28,7 @@ Despite this, there are a handful of items that are still non-renewable. This de
 | 1 Stone/Deepslate, 8 Coal/Iron/Gold/Redstone/Emerald/Diamonds | 1 Ore Block of that Stone & Ore type |
 | 1 Stone/Deepslate, 4 Blocks of Copper/Lapis | 1 Ore Block of that Stone & Ore type |
 | 1 Netherrack, 8 Gold Ingots | 1 Nether Gold Ore |
+| 1 Netherrack, 8 Nether Quartz | 1 Nether Quartz Ore |
 | 1 Blackstone, 8 Gold Nuggets | 1 Gilded Blackstone |
 
 ### New Mob/Block Drops

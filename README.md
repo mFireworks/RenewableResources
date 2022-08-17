@@ -39,7 +39,7 @@ Despite this, there are a handful of items that are still non-renewable. This de
 | Husk | Drops 0-4 Sand upon death |
 | Drowned | Drops Otherside Music Disc when killed by skeleton |
 | Piglin | Drops Pigstep Music Disc when killed by another Piglin |
-| Ender Dragon | Chance to Drop both a Dragon Head and Elytra |
+| Ender Dragon | Chance to Drop both a Dragon Head and Elytra (25% chance for each to drop) |
 | Sculk Catalyst | Drops Echo Shard when broken without Silk Touch |
 | Sculk Shrieker | Drops Disc Fragment when broken without Silk Touch |
 

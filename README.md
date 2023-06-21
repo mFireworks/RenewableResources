@@ -30,6 +30,7 @@ Despite this, there are a handful of items that are still non-renewable. This de
 | 1 Netherrack, 8 Gold Ingots | 1 Nether Gold Ore |
 | 1 Netherrack, 8 Nether Quartz | 1 Nether Quartz Ore |
 | 1 Blackstone, 8 Gold Nuggets | 1 Gilded Blackstone |
+| 4 Hanging Roots, 1 Dirt | 1 Rooted Dirt |
 
 ### New Mob/Block Drops
 

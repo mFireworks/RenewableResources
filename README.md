@@ -2,7 +2,7 @@
 
 ## Overview
 
-Within Minecraft, there's a wide range of blocks and items that have a finite amount within any given world or their renewability is so limited that their renewable method isn't viable. This datapack aims to provide a reasonable means of renewablility for these items of the game.
+Within Minecraft, there's a wide range of blocks and items that have a finite amount within any given world or their renewability is so limited that their renewable method isn't viable. This datapack aims to provide a reasonable means of renewability for these items of the game.
 
 Despite this, there are a handful of items that are still non-renewable. This decision was for these specific items because their rarity is what makes them special or there isn't a good implementation method with datapacks that'd provide a reasonable method to obtain such item.
 

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#A",
+        "A#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cobbled_deepslate"
+        },
+        "A": {
+            "item": "minecraft:andesite"
+        }
+    },
+    "result": {
+        "id": "minecraft:tuff",
+        "count": 4
+    }
+}

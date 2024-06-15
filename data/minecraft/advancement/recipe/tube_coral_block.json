@@ -1,0 +1,35 @@
+{
+    "criteria": {
+      "has_tube_coral_block": {
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:tube_coral_block",
+                "minecraft:tube_coral_fan",
+                "minecraft:tube_coral"
+              ]
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      },
+      "has_the_recipe": {
+        "conditions": {
+          "recipe": "tube_coral_block"
+        },
+        "trigger": "minecraft:recipe_unlocked"
+      }
+    },
+    "requirements": [
+      [
+        "has_tube_coral_block",
+        "has_the_recipe"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "tube_coral_block"
+      ]
+    }
+  }

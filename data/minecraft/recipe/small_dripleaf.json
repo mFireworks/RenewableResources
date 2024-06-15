@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:big_dripleaf"
+        }
+    ],
+    "result": {
+        "id": "minecraft:small_dripleaf",
+        "count": 4
+    }
+}

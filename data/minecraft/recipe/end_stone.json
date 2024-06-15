@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "SPS",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:blaze_powder"
+        },
+        "S": {
+            "item": "minecraft:stone"
+        },
+        "P": {
+            "item": "minecraft:popped_chorus_fruit"
+        }
+    },
+    "result": {
+        "id": "minecraft:end_stone",
+        "count": 4
+    }
+}

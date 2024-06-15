@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "DD"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:quartz"
+        },
+        "D": {
+            "item": "minecraft:diorite"
+        }
+    },
+    "result": {
+        "id": "minecraft:calcite",
+        "count": 2
+    }
+}

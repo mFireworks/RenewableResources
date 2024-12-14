@@ -6,12 +6,8 @@
         "dSd"
     ],
     "key": {
-        "d": {
-            "item": "minecraft:diamond"
-        },
-        "S": {
-            "item": "minecraft:saddle"
-        }
+        "d": "minecraft:diamond",
+        "S": "minecraft:saddle"
     },
     "result": {
         "id": "minecraft:diamond_horse_armor",

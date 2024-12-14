@@ -5,12 +5,8 @@
         "DD"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:quartz"
-        },
-        "D": {
-            "item": "minecraft:diorite"
-        }
+        "#": "minecraft:quartz",
+        "D": "minecraft:diorite"
     },
     "result": {
         "id": "minecraft:calcite",

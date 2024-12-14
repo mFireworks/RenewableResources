@@ -6,12 +6,8 @@
         "gSg"
     ],
     "key": {
-        "g": {
-            "item": "minecraft:gold_ingot"
-        },
-        "S": {
-            "item": "minecraft:saddle"
-        }
+        "g": "minecraft:gold_ingot",
+        "S": "minecraft:saddle"
     },
     "result": {
         "id": "minecraft:golden_horse_armor",

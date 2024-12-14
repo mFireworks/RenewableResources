@@ -6,12 +6,8 @@
         " # "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:redstone_block"
-        },
-        "D": {
-            "item": "minecraft:deepslate"
-        }
+        "#": "minecraft:redstone_block",
+        "D": "minecraft:deepslate"
     },
     "result": {
         "id": "minecraft:deepslate_redstone_ore",

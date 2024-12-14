@@ -5,12 +5,8 @@
         "HH"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:horn_coral_fan"
-        },
-        "H": {
-            "item": "minecraft:horn_coral"
-        }
+        "#": "minecraft:horn_coral_fan",
+        "H": "minecraft:horn_coral"
     },
     "result": {
         "id": "minecraft:horn_coral_block",

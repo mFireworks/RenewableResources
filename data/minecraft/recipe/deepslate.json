@@ -6,15 +6,9 @@
         "#S#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:blackstone"
-        },
-        "S": {
-            "item": "minecraft:stone"
-        },
-        "O": {
-            "item": "minecraft:obsidian"
-        }
+        "#": "minecraft:blackstone",
+        "S": "minecraft:stone",
+        "O": "minecraft:obsidian"
     },
     "result": {
         "id": "minecraft:deepslate",

@@ -5,12 +5,8 @@
         "BB"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:bubble_coral_fan"
-        },
-        "B": {
-            "item": "minecraft:bubble_coral"
-        }
+        "#": "minecraft:bubble_coral_fan",
+        "B": "minecraft:bubble_coral"
     },
     "result": {
         "id": "minecraft:bubble_coral_block",

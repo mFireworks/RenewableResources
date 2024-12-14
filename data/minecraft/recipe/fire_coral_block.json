@@ -5,12 +5,8 @@
         "FF"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:fire_coral_fan"
-        },
-        "F": {
-            "item": "minecraft:fire_coral"
-        }
+        "#": "minecraft:fire_coral_fan",
+        "F": "minecraft:fire_coral"
     },
     "result": {
         "id": "minecraft:fire_coral_block",

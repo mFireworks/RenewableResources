@@ -5,15 +5,9 @@
         " A "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:small_dripleaf"
-        },
-        "B": {
-            "item": "minecraft:big_dripleaf"
-        },
-        "A": {
-            "item": "minecraft:allium"
-        }
+        "#": "minecraft:small_dripleaf",
+        "B": "minecraft:big_dripleaf",
+        "A": "minecraft:allium"
     },
     "result": {
         "id": "minecraft:spore_blossom",

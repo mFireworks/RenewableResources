@@ -6,15 +6,9 @@
         "#S#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:blaze_powder"
-        },
-        "S": {
-            "item": "minecraft:stone"
-        },
-        "P": {
-            "item": "minecraft:popped_chorus_fruit"
-        }
+        "#": "minecraft:blaze_powder",
+        "S": "minecraft:stone",
+        "P": "minecraft:popped_chorus_fruit"
     },
     "result": {
         "id": "minecraft:end_stone",

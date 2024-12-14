@@ -5,12 +5,8 @@
         "A#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:cobbled_deepslate"
-        },
-        "A": {
-            "item": "minecraft:andesite"
-        }
+        "#": "minecraft:cobbled_deepslate",
+        "A": "minecraft:andesite"
     },
     "result": {
         "id": "minecraft:tuff",

@@ -6,12 +6,8 @@
         "###"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:quartz"
-        },
-        "N": {
-            "item": "minecraft:netherrack"
-        }
+        "#": "minecraft:quartz",
+        "N": "minecraft:netherrack"
     },
     "result": {
         "id": "minecraft:nether_quartz_ore",

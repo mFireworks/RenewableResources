@@ -6,12 +6,8 @@
         " # "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:lapis_block"
-        },
-        "S": {
-            "item": "minecraft:stone"
-        }
+        "#": "minecraft:lapis_block",
+        "S": "minecraft:stone"
     },
     "result": {
         "id": "minecraft:lapis_ore",

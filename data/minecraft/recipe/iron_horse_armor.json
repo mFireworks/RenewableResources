@@ -6,12 +6,8 @@
         "iSi"
     ],
     "key": {
-        "i": {
-            "item": "minecraft:iron_ingot"
-        },
-        "S": {
-            "item": "minecraft:saddle"
-        }
+        "i": "minecraft:iron_ingot",
+        "S": "minecraft:saddle"
     },
     "result": {
         "id": "minecraft:iron_horse_armor",

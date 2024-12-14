@@ -6,15 +6,9 @@
         "#S#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:nether_wart"
-        },
-        "S": {
-            "item": "minecraft:stone"
-        },
-        "M": {
-            "item": "minecraft:magma_cream"
-        }
+        "#": "minecraft:nether_wart",
+        "S": "minecraft:stone",
+        "M": "minecraft:magma_cream"
     },
     "result": {
         "id": "minecraft:netherrack",

@@ -6,12 +6,8 @@
         "iii"
     ],
     "key": {
-        "i": {
-            "item": "minecraft:iron_ingot"
-        },
-        "D": {
-            "item": "minecraft:deepslate"
-        }
+        "i": "minecraft:iron_ingot",
+        "D": "minecraft:deepslate"
     },
     "result": {
         "id": "minecraft:deepslate_iron_ore",

@@ -6,12 +6,8 @@
         " # "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:copper_block"
-        },
-        "S": {
-            "item": "minecraft:stone"
-        }
+        "#": "minecraft:copper_block",
+        "S": "minecraft:stone"
     },
     "result": {
         "id": "minecraft:copper_ore",

@@ -6,12 +6,8 @@
         "ggg"
     ],
     "key": {
-        "g": {
-            "item": "minecraft:gold_ingot"
-        },
-        "N": {
-            "item": "minecraft:netherrack"
-        }
+        "g": "minecraft:gold_ingot",
+        "N": "minecraft:netherrack"
     },
     "result": {
         "id": "minecraft:nether_gold_ore",

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "group": "chamberDiscs",
+    "ingredients": [
+        "minecraft:music_disc_creator_music_box",
+        "minecraft:cyan_dye"
+    ],
+    "result": {
+        "id": "minecraft:music_disc_creator",
+        "count": 1
+    }
+}

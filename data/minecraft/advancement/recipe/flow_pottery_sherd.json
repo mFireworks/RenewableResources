@@ -1,0 +1,33 @@
+{
+    "criteria": {
+      "has_flow_sherd": {
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:flow_pottery_sherd"
+              ]
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      },
+      "has_the_recipe": {
+        "conditions": {
+          "recipe": "flow_pottery_sherd"
+        },
+        "trigger": "minecraft:recipe_unlocked"
+      }
+    },
+    "requirements": [
+      [
+        "has_flow_sherd",
+        "has_the_recipe"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "flow_pottery_sherd"
+      ]
+    }
+  }

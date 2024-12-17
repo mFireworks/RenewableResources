@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "BBB",
+        "BSB",
+        "BCB"
+    ],
+    "key": {
+        "B": "minecraft:brick",
+        "S": "minecraft:danger_pottery_sherd",
+        "C": "minecraft:creeper_head"
+    },
+    "result": {
+        "id": "minecraft:danger_pottery_sherd",
+        "count": 2
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "AAA",
+        "IWI",
+        "BBB"
+    ],
+    "key": {
+        "B": "minecraft:iron_block",
+        "I": "minecraft:iron_ingot",
+        "W": "minecraft:wind_charge",
+        "A": "minecraft:anvil"
+    },
+    "result": {
+        "id": "minecraft:heavy_core",
+        "count": 1
+    }
+}

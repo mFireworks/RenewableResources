@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "BBB",
+        "BSB",
+        "BWB"
+    ],
+    "key": {
+        "B": "minecraft:brick",
+        "S": "minecraft:flow_pottery_sherd",
+        "W": "minecraft:wind_charge"
+    },
+    "result": {
+        "id": "minecraft:flow_pottery_sherd",
+        "count": 2
+    }
+}

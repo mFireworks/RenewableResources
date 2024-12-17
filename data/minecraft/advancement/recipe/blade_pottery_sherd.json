@@ -1,0 +1,33 @@
+{
+    "criteria": {
+      "has_blade_sherd": {
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:blade_pottery_sherd"
+              ]
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      },
+      "has_the_recipe": {
+        "conditions": {
+          "recipe": "blade_pottery_sherd"
+        },
+        "trigger": "minecraft:recipe_unlocked"
+      }
+    },
+    "requirements": [
+      [
+        "has_blade_sherd",
+        "has_the_recipe"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "blade_pottery_sherd"
+      ]
+    }
+  }

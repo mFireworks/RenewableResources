@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "BBB",
+        "BSB",
+        "BMB"
+    ],
+    "key": {
+        "B": "minecraft:brick",
+        "S": "minecraft:explorer_pottery_sherd",
+        "M": "minecraft:map"
+    },
+    "result": {
+        "id": "minecraft:explorer_pottery_sherd",
+        "count": 2
+    }
+}

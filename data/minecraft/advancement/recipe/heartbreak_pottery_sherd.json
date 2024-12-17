@@ -1,0 +1,33 @@
+{
+    "criteria": {
+      "has_heartbreak_sherd": {
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:heartbreak_pottery_sherd"
+              ]
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      },
+      "has_the_recipe": {
+        "conditions": {
+          "recipe": "heartbreak_pottery_sherd"
+        },
+        "trigger": "minecraft:recipe_unlocked"
+      }
+    },
+    "requirements": [
+      [
+        "has_heartbreak_sherd",
+        "has_the_recipe"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "heartbreak_pottery_sherd"
+      ]
+    }
+  }

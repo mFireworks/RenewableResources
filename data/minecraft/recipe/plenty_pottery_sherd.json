@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "BBB",
+        "BSB",
+        "BCB"
+    ],
+    "key": {
+        "B": "minecraft:brick",
+        "S": "minecraft:plenty_pottery_sherd",
+        "C": "minecraft:chest"
+    },
+    "result": {
+        "id": "minecraft:plenty_pottery_sherd",
+        "count": 2
+    }
+}

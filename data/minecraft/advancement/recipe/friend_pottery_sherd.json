@@ -1,0 +1,33 @@
+{
+    "criteria": {
+      "has_friend_sherd": {
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:friend_pottery_sherd"
+              ]
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      },
+      "has_the_recipe": {
+        "conditions": {
+          "recipe": "friend_pottery_sherd"
+        },
+        "trigger": "minecraft:recipe_unlocked"
+      }
+    },
+    "requirements": [
+      [
+        "has_friend_sherd",
+        "has_the_recipe"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "friend_pottery_sherd"
+      ]
+    }
+  }

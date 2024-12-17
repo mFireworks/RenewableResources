@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "BBB",
+        " K ",
+        " E "
+    ],
+    "key": {
+        "B": "minecraft:ominous_bottle",
+        "K": "minecraft:trial_key",
+        "E": "minecraft:ender_pearl"
+    },
+    "result": {
+        "id": "minecraft:ominous_trial_key",
+        "count": 1
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "BBB",
+        "BSB",
+        "BRB"
+    ],
+    "key": {
+        "B": "minecraft:brick",
+        "S": "minecraft:angler_pottery_sherd",
+        "R": "minecraft:fishing_rod"
+    },
+    "result": {
+        "id": "minecraft:angler_pottery_sherd",
+        "count": 2
+    }
+}

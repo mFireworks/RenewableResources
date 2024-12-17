@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "BBB",
+        "BSB",
+        "BEB"
+    ],
+    "key": {
+        "B": "minecraft:brick",
+        "S": "minecraft:friend_pottery_sherd",
+        "E": "minecraft:emerald"
+    },
+    "result": {
+        "id": "minecraft:friend_pottery_sherd",
+        "count": 2
+    }
+}

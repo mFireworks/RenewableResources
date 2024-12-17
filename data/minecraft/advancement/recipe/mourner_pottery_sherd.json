@@ -1,0 +1,33 @@
+{
+    "criteria": {
+      "has_mourner_sherd": {
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:mourner_pottery_sherd"
+              ]
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      },
+      "has_the_recipe": {
+        "conditions": {
+          "recipe": "mourner_pottery_sherd"
+        },
+        "trigger": "minecraft:recipe_unlocked"
+      }
+    },
+    "requirements": [
+      [
+        "has_mourner_sherd",
+        "has_the_recipe"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "mourner_pottery_sherd"
+      ]
+    }
+  }

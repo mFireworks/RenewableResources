@@ -1,0 +1,33 @@
+{
+    "criteria": {
+      "has_howl_sherd": {
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:howl_pottery_sherd"
+              ]
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      },
+      "has_the_recipe": {
+        "conditions": {
+          "recipe": "howl_pottery_sherd"
+        },
+        "trigger": "minecraft:recipe_unlocked"
+      }
+    },
+    "requirements": [
+      [
+        "has_howl_sherd",
+        "has_the_recipe"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "howl_pottery_sherd"
+      ]
+    }
+  }

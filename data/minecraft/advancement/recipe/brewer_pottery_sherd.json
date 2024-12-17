@@ -1,0 +1,33 @@
+{
+    "criteria": {
+      "has_brewer_sherd": {
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:brewer_pottery_sherd"
+              ]
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      },
+      "has_the_recipe": {
+        "conditions": {
+          "recipe": "brewer_pottery_sherd"
+        },
+        "trigger": "minecraft:recipe_unlocked"
+      }
+    },
+    "requirements": [
+      [
+        "has_brewer_sherd",
+        "has_the_recipe"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "brewer_pottery_sherd"
+      ]
+    }
+  }

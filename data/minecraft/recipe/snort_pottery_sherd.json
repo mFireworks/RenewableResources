@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "BBB",
+        "BSB",
+        "BTB"
+    ],
+    "key": {
+        "B": "minecraft:brick",
+        "S": "minecraft:snort_pottery_sherd",
+        "T": "minecraft:torchflower"
+    },
+    "result": {
+        "id": "minecraft:snort_pottery_sherd",
+        "count": 2
+    }
+}

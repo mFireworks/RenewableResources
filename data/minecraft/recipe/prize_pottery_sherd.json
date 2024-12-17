@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "BBB",
+        "BSB",
+        "BDB"
+    ],
+    "key": {
+        "B": "minecraft:brick",
+        "S": "minecraft:prize_pottery_sherd",
+        "D": "minecraft:diamond"
+    },
+    "result": {
+        "id": "minecraft:prize_pottery_sherd",
+        "count": 2
+    }
+}

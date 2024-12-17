@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "BBB",
+        "BSB",
+        "BCB"
+    ],
+    "key": {
+        "B": "minecraft:brick",
+        "S": "minecraft:burn_pottery_sherd",
+        "C": "minecraft:campfire"
+    },
+    "result": {
+        "id": "minecraft:burn_pottery_sherd",
+        "count": 2
+    }
+}

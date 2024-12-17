@@ -1,0 +1,34 @@
+{
+    "criteria": {
+      "has_piglin_head": {
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:piglin_head",
+                "minecraft:piglin_banner_pattern"
+              ]
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      },
+      "has_the_recipe": {
+        "conditions": {
+          "recipe": "piglin_banner_pattern"
+        },
+        "trigger": "minecraft:recipe_unlocked"
+      }
+    },
+    "requirements": [
+      [
+        "has_piglin_head",
+        "has_the_recipe"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "piglin_banner_pattern"
+      ]
+    }
+  }

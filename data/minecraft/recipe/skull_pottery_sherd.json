@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "BBB",
+        "BSB",
+        "BWB"
+    ],
+    "key": {
+        "B": "minecraft:brick",
+        "S": "minecraft:skull_pottery_sherd",
+        "W": "minecraft:wither_skeleton_skull"
+    },
+    "result": {
+        "id": "minecraft:skull_pottery_sherd",
+        "count": 2
+    }
+}

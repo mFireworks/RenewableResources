@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "susBlock",
+    "pattern": [
+        "SP",
+        "PS"
+    ],
+    "key": {
+        "S": "minecraft:suspicious_sand",
+        "P": "minecraft:sand"
+    },
+    "result": {
+        "id": "minecraft:suspicious_sand",
+        "count": 4
+    }
+}

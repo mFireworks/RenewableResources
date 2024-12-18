@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "PLP",
+        "LCL",
+        "PLP"
+    ],
+    "key": {
+        "C": "minecraft:creaking_heart",
+        "L": "minecraft:sea_lantern",
+        "P": "minecraft:prismarine_crystals"
+    },
+    "result": {
+        "id": "minecraft:heart_of_the_sea",
+        "count": 1
+    }
+}

@@ -4,8 +4,6 @@
 
 Within Minecraft, there's a wide range of blocks and items that have a finite amount within any given world or their renewability is so limited that their renewable method isn't viable. This datapack aims to provide a reasonable means of renewability for these items of the game.
 
-Despite this, there are a handful of items that are still non-renewable. This decision was for these specific items because their rarity is what makes them special or there isn't a good implementation method with datapacks that'd provide a reasonable method to obtain such item.
-
 ## Changes
 
 ### New Recipes
@@ -39,6 +37,9 @@ Despite this, there are a handful of items that are still non-renewable. This de
 | 1 Creator (Music Box) Music Disc, 1 Orange Dye | 1 Creator Music Disc |
 | 5 Polished Tuff, 1 Breeze Rod, 1 Copper Ingot | 1 Trial Key |
 | 3 Ominous Bottle, 1 Trial Key, 1 Ender Pearl | 1 Ominous Trial Key |
+| 1 Creaking Heart, 4 Sea Lanterns, 4 Prismarine Shards | 1 Heart of the Sea |
+| 2 Sand, 2 Suspicious Sand | 4 Suspicious Sand |
+| 2 Gravel, 2 Suspicious Gravel | 4 Suspicious Gravel |
 
 ### Pottery Sherd Recipes
 
@@ -77,9 +78,10 @@ Pottery Sherds follow the same pattern as Smithing Templates, requiring one sher
 | Guardian | Rarely drops 1 Wet Sponge (2.5% without looting) |
 | Husk | Drops 0-4 Sand upon death |
 | Husk | Drops Relic Music Disc when killed by skeleton |
+| Husk | Drops Creator or Precipice Music Disc when killed by a Bogged when within a Trial Chamber |
 | Drowned | Drops Otherside Music Disc when killed by skeleton |
 | Piglin | Drops Pigstep Music Disc when killed by another Piglin |
-| Silverfish | Drops Creator or Precipice Music Disc when killed by a Bogged |
+| Enderman | Drops Otherside Music Disc when killed by a Warden |
 | Ender Dragon | Chance to Drop both a Dragon Head and Elytra (25% chance for each to drop) |
 | Sculk Catalyst | Drops Echo Shard when broken without Silk Touch |
 | Sculk Shrieker | Drops Disc Fragment when broken without Silk Touch |
@@ -87,11 +89,6 @@ Pottery Sherds follow the same pattern as Smithing Templates, requiring one sher
 ### Misc Changes
 
 - **Swift Sneak** and **Wind Burst** are now possible trades offered by Librarian Villagers.
-
-## Remaining Non-Renewable Items
-
-| Block/Item | Reasoning |
-| ---------- | --------- |
-| Ancient Debris | The value of ancient debris and netherite is due to their rarity. While blocks of netherite are great building blocks, doesn't feel right to be able to "farm" netherite. |
-| Diamonds | From a multiplayer aspect, diamonds are commonly used as currency. So to be able to farm money seems like it'll ruin economies. Besides that, it's kind of the same mindset as netherite, though a lot of the items that require diamonds can be obtained by other means or aren't needed very frequently. |
-| Heart of the Sea | Ideally, I'd want this to be a possible trade from the wandering trader. However, there isn't an easy way to add this via datapacks (from what I can find) |
+- Sniffers can dig up **Ancient Debris** when within the Nether. (1% drop rate)
+- Sniffers can dig up **Diamonds** when within the End. (1% drop rate)
+- Sniffers can now dig on Soul Sand, Soul Soil, Crimson Nylium, Warped Nylium, and End Stone along with their usual digging blocks.

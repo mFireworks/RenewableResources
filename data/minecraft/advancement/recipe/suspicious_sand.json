@@ -1,0 +1,33 @@
+{
+    "criteria": {
+      "has_suspicious_sand": {
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:suspicious_sand"
+              ]
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      },
+      "has_the_recipe": {
+        "conditions": {
+          "recipe": "suspicious_sand"
+        },
+        "trigger": "minecraft:recipe_unlocked"
+      }
+    },
+    "requirements": [
+      [
+        "has_suspicious_sand",
+        "has_the_recipe"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "suspicious_sand"
+      ]
+    }
+  }

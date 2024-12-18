@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "susBlock",
+    "pattern": [
+        "GP",
+        "PG"
+    ],
+    "key": {
+        "G": "minecraft:suspicious_gravel",
+        "P": "minecraft:gravel"
+    },
+    "result": {
+        "id": "minecraft:suspicious_gravel",
+        "count": 4
+    }
+}

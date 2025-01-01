@@ -35,8 +35,6 @@ Within Minecraft, there's a wide range of blocks and items that have a finite am
 | 3 Anvils, 2 Iron Ingots, 1 Wind Charge, 3 Blocks of Iron | 1 Heavy Core |
 | 1 Creator Music Disc, 1 Cyan Dye | 1 Creator (Music Box) Music Disc |
 | 1 Creator (Music Box) Music Disc, 1 Orange Dye | 1 Creator Music Disc |
-| 5 Polished Tuff, 1 Breeze Rod, 1 Copper Ingot | 1 Trial Key |
-| 3 Ominous Bottle, 1 Trial Key, 1 Ender Pearl | 1 Ominous Trial Key |
 | 1 Creaking Heart, 4 Sea Lanterns, 4 Prismarine Shards | 1 Heart of the Sea |
 | 2 Sand, 2 Suspicious Sand | 4 Suspicious Sand |
 | 2 Gravel, 2 Suspicious Gravel | 4 Suspicious Gravel |
@@ -84,11 +82,11 @@ Pottery Sherds follow the same pattern as Smithing Templates, requiring one sher
 | Enderman | Drops Otherside Music Disc when killed by a Warden |
 | Ender Dragon | Chance to Drop both a Dragon Head and Elytra (25% chance for each to drop) |
 | Sculk Catalyst | Drops Echo Shard when broken without Silk Touch |
-| Sculk Shrieker | Drops Disc Fragment when broken without Silk Touch |
 
 ### Misc Changes
 
 - **Swift Sneak** and **Wind Burst** are now possible trades offered by Librarian Villagers.
 - Sniffers can dig up **Ancient Debris** when within the Nether. (1% drop rate)
 - Sniffers can dig up **Diamonds** when within the End. (1% drop rate)
+- Sniffers can dig up **Disc Fragments** when within a Deep Dark Biome.(~3% drop rate)
 - Sniffers can now dig on Soul Sand, Soul Soil, Crimson Nylium, Warped Nylium, and End Stone along with their usual digging blocks.

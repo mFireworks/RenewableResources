@@ -1,4 +1,5 @@
 { "pack": {
-	"pack_format": 81,
-	"description": "Renewable Recipes 1.4.1 - By: Fireworks"
+	"min_format": 88,
+	"max_format": 88,
+	"description": "Renewable Recipes 1.5 - By: Fireworks"
 }}

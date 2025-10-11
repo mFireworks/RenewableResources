@@ -17,8 +17,9 @@ Within Minecraft, there's a wide range of blocks and items that have a finite am
 | 4 Stone, 4 Blackstone, 1 Obsidion | 9 Deepslate |
 | 4 Blaze Powder, 4 Stone, 1 Popped Chorus Fruit | 4 End Stone |
 | 4 Nether Wart, 4 Stone, 1 Magma Cream | 4 Netherrack |
-| 7 Iron/Gold/Diamond | Iron/Gold/Diamond Horse Armor |
+| 7 Copper/Iron/Gold/Diamond | Copper/Iron/Gold/Diamond Horse Armor |
 | 2 Sand, 1 Red Dye | 2 Red Sand |
+| 2 Sandstone, 1 Red Dye | 2 Red Sandstone |
 | 1 Big Dripleaf | 4 Small Dripleaf |
 | 1 Big Dripleaf, 2 Small Dripleaf, 1 Allium | 1 Spore Blossom |
 | 2 Andesite, 2 Deepslate | 4 Tuff |

@@ -87,7 +87,8 @@ Pottery Sherds follow the same pattern as Smithing Templates, requiring one sher
 ### Misc Changes
 
 - **Swift Sneak** and **Wind Burst** are now possible trades offered by Librarian Villagers.
+- Tall Grass and Large Ferns drop themselves when broken with shears, instead of two short grass/fern.
 - Sniffers can dig up **Ancient Debris** when within the Nether. (1% drop rate)
-- Sniffers can dig up **Diamonds** when within the End. (1% drop rate)
+- Sniffers can dig up **Diamonds** and **Dragon Eggs** when within the End. (1% drop rate)
 - Sniffers can dig up **Disc Fragments** when within a Deep Dark Biome.(~3% drop rate)
 - Sniffers can now dig on Soul Sand, Soul Soil, Crimson Nylium, Warped Nylium, and End Stone along with their usual digging blocks.

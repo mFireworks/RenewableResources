@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        "minecraft:big_dripleaf"
+    ],
+    "result": {
+        "id": "minecraft:small_dripleaf",
+        "count": 4
+    }
+}

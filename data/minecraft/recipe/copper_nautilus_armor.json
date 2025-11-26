@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:copper_ingot",
+  "base": "minecraft:nautilus_shell",
+  "result": {
+    "id": "minecraft:copper_nautilus_armor"
+  }
+}

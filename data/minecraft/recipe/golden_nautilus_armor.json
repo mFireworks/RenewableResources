@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:gold_ingot",
+  "base": "minecraft:nautilus_shell",
+  "result": {
+    "id": "minecraft:golden_nautilus_armor"
+  }
+}

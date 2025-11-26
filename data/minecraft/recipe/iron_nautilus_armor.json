@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:iron_ingot",
+  "base": "minecraft:nautilus_shell",
+  "result": {
+    "id": "minecraft:iron_nautilus_armor"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:diamond",
+  "base": "minecraft:nautilus_shell",
+  "result": {
+    "id": "minecraft:diamond_nautilus_armor"
+  }
+}

@@ -78,6 +78,8 @@ Pottery Sherds follow the same pattern as Smithing Templates, requiring one sher
 | Husk | Drops 0-4 Sand upon death |
 | Husk | Drops Relic Music Disc when killed by skeleton |
 | Husk | Drops Creator or Precipice Music Disc when killed by a Bogged when within a Trial Chamber |
+| Parched | Drops 0-4 Sand upon death |
+| Camel Husk | Drops 0-4 Sand upon death |
 | Drowned | Drops Otherside Music Disc when killed by skeleton |
 | Piglin | Drops Pigstep Music Disc when killed by another Piglin |
 | Enderman | Drops Otherside Music Disc when killed by a Warden |
@@ -87,6 +89,7 @@ Pottery Sherds follow the same pattern as Smithing Templates, requiring one sher
 ### Misc Changes
 
 - **Swift Sneak** and **Wind Burst** are now possible trades offered by Librarian Villagers.
+- Nautilus Armor can be made at the **Smithing Table** by combining a **Nautilus Shell** and a **Copper Ingot**, **Iron Ingot**, **Gold Ingot**, or **Diamond**.
 - Tall Grass and Large Ferns drop themselves when broken with shears, instead of two short grass/fern.
 - Sniffers can dig up **Ancient Debris** when within the Nether. (1% drop rate)
 - Sniffers can dig up **Diamonds** and **Dragon Eggs** when within the End. (1% drop rate)

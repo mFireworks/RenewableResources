@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "#S#",
+        "SOS",
+        "#S#"
+    ],
+    "key": {
+        "#": "minecraft:blackstone",
+        "S": "minecraft:stone",
+        "O": "minecraft:obsidian"
+    },
+    "result": {
+        "id": "minecraft:deepslate",
+        "count": 9
+    }
+}

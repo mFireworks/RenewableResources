@@ -76,7 +76,7 @@ Pottery Sherds follow the same pattern as Smithing Templates, requiring one sher
 | --------- | -------------- |
 | Guardian | Rarely drops 1 Wet Sponge (2.5% without looting) |
 | Husk | Drops 0-4 Sand upon death |
-| Husk | Drops Relic Music Disc when killed by skeleton |
+| Husk | Drops Relic Music Disc when killed by a Parched |
 | Husk | Drops Creator or Precipice Music Disc when killed by a Bogged when within a Trial Chamber |
 | Parched | Drops 0-4 Sand upon death |
 | Camel Husk | Drops 0-4 Sand upon death |
@@ -91,7 +91,8 @@ Pottery Sherds follow the same pattern as Smithing Templates, requiring one sher
 - **Swift Sneak** and **Wind Burst** are now possible trades offered by Librarian Villagers.
 - Nautilus Armor can be made at the **Smithing Table** by combining a **Nautilus Shell** and a **Copper Ingot**, **Iron Ingot**, **Gold Ingot**, or **Diamond**.
 - Tall Grass and Large Ferns drop themselves when broken with shears, instead of two short grass/fern.
-- Sniffers can dig up **Ancient Debris** when within the Nether. (1% drop rate)
-- Sniffers can dig up **Diamonds** and **Dragon Eggs** when within the End. (1% drop rate)
-- Sniffers can dig up **Disc Fragments** when within a Deep Dark Biome.(~3% drop rate)
+- Chickens can rarely (0.01%) lay **Dragon Eggs** when not touching the ground in The End.
+- Sniffers can dig up **Ancient Debris** when within the Nether. (2% drop rate)
+- Sniffers can dig up **Diamonds** when within the End. (2% drop rate)
+- Sniffers can dig up **Disc Fragments** when within a Deep Dark Biome.(2% drop rate)
 - Sniffers can now dig on Soul Sand, Soul Soil, Crimson Nylium, Warped Nylium, and End Stone along with their usual digging blocks.

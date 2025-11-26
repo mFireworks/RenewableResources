@@ -1,7 +1,6 @@
 {
   "values": [
-    "#minecraft:treasure",
-    "minecraft:wind_burst",
-    "minecraft:swift_sneak"
+    "#vanilla:double_trade_price",
+    "#renewableresources:double_trade_price"
   ]
 }

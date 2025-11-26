@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "coralBlocks",
+    "pattern": [
+        "##",
+        "BB"
+    ],
+    "key": {
+        "#": "minecraft:brain_coral_fan",
+        "B": "minecraft:brain_coral"
+    },
+    "result": {
+        "id": "minecraft:brain_coral_block",
+        "count": 1
+    }
+}

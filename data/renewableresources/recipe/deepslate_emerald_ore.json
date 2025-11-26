@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "deepslateOre",
+    "pattern": [
+        "###",
+        "#D#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:emerald",
+        "D": "minecraft:deepslate"
+    },
+    "result": {
+        "id": "minecraft:deepslate_emerald_ore",
+        "count": 1
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "deepslateOre",
+    "pattern": [
+        " # ",
+        "#D#",
+        " # "
+    ],
+    "key": {
+        "#": "minecraft:copper_block",
+        "D": "minecraft:deepslate"
+    },
+    "result": {
+        "id": "minecraft:deepslate_copper_ore",
+        "count": 1
+    }
+}

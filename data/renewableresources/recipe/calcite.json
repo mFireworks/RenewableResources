@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "##",
+        "DD"
+    ],
+    "key": {
+        "#": "minecraft:quartz",
+        "D": "minecraft:diorite"
+    },
+    "result": {
+        "id": "minecraft:calcite",
+        "count": 2
+    }
+}

@@ -83,7 +83,7 @@ Pottery Sherds follow the same pattern as Smithing Templates, requiring one sher
 | Drowned | Drops Otherside Music Disc when killed by skeleton |
 | Piglin | Drops Pigstep Music Disc when killed by another Piglin |
 | Enderman | Drops Otherside Music Disc when killed by a Warden |
-| Ender Dragon | Chance to Drop both a Dragon Head and Elytra (25% chance for each to drop) |
+| Ender Dragon | Chance to Drop a Dragon Head, Elytra, or a Dragon Egg (25% chance for each to drop) |
 | Sculk Catalyst | Drops Echo Shard when broken without Silk Touch |
 
 ### Misc Changes
@@ -91,7 +91,6 @@ Pottery Sherds follow the same pattern as Smithing Templates, requiring one sher
 - **Swift Sneak** and **Wind Burst** are now possible trades offered by Librarian Villagers.
 - Nautilus Armor can be made at the **Smithing Table** by combining a **Nautilus Shell** and a **Copper Ingot**, **Iron Ingot**, **Gold Ingot**, or **Diamond**.
 - Tall Grass and Large Ferns drop themselves when broken with shears, instead of two short grass/fern.
-- Chickens can rarely (0.01%) lay **Dragon Eggs** when not touching the ground in The End.
 - Sniffers can dig up **Ancient Debris** when within the Nether. (2% drop rate)
 - Sniffers can dig up **Diamonds** when within the End. (2% drop rate)
 - Sniffers can dig up **Disc Fragments** when within a Deep Dark Biome.(2% drop rate)

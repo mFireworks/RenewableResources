@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "redstone_ore"
+        "renewableresources:redstone_ore"
       ]
     }
   }

@@ -27,7 +27,7 @@
     ],
     "rewards": {
       "recipes": [
-        "scrape_pottery_sherd"
+        "renewableresources:scrape_pottery_sherd"
       ]
     }
   }

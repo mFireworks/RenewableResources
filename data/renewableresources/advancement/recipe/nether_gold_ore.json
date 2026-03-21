@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "nether_gold_ore"
+        "renewableresources:nether_gold_ore"
       ]
     }
   }

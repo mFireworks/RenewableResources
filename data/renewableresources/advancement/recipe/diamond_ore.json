@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "diamond_ore"
+        "renewableresources:diamond_ore"
       ]
     }
   }

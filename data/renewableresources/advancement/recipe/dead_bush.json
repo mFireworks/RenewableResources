@@ -29,7 +29,7 @@
     ],
     "rewards": {
       "recipes": [
-        "dead_bush"
+        "renewableresources:dead_bush"
       ]
     }
   }

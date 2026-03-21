@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "music_disc_creator_music_box"
+        "renewableresources:music_disc_creator_music_box"
       ]
     }
   }

@@ -27,7 +27,7 @@
     ],
     "rewards": {
       "recipes": [
-        "miner_pottery_sherd"
+        "renewableresources:miner_pottery_sherd"
       ]
     }
   }

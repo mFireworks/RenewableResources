@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "emerald_ore"
+        "renewableresources:emerald_ore"
       ]
     }
   }

@@ -27,7 +27,7 @@
     ],
     "rewards": {
       "recipes": [
-        "suspicious_gravel"
+        "renewableresources:suspicious_gravel"
       ]
     }
   }

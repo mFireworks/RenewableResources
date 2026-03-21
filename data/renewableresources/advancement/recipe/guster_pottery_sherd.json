@@ -27,7 +27,7 @@
     ],
     "rewards": {
       "recipes": [
-        "guster_pottery_sherd"
+        "renewableresources:guster_pottery_sherd"
       ]
     }
   }

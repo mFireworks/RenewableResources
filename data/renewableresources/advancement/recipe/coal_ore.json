@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "coal_ore"
+        "renewableresources:coal_ore"
       ]
     }
   }

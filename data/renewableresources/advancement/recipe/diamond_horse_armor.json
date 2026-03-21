@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "diamond_horse_armor"
+        "renewableresources:diamond_horse_armor"
       ]
     }
   }

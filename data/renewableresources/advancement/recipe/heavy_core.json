@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "heavy_core"
+        "renewableresources:heavy_core"
       ]
     }
   }

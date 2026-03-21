@@ -29,7 +29,7 @@
     ],
     "rewards": {
       "recipes": [
-        "deepslate_copper_ore"
+        "renewableresources:deepslate_copper_ore"
       ]
     }
   }

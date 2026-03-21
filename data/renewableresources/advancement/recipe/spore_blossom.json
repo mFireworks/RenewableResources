@@ -30,7 +30,7 @@
     ],
     "rewards": {
       "recipes": [
-        "spore_blossom"
+        "renewableresources:spore_blossom"
       ]
     }
   }

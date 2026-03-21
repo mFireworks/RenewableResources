@@ -30,7 +30,7 @@
     ],
     "rewards": {
       "recipes": [
-        "enchanted_golden_apple"
+        "renewableresources:enchanted_golden_apple"
       ]
     }
   }

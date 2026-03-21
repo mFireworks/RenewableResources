@@ -29,7 +29,7 @@
     ],
     "rewards": {
       "recipes": [
-        "deepslate_iron_ore"
+        "renewableresources:deepslate_iron_ore"
       ]
     }
   }

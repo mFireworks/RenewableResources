@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "deepslate_coal_ore"
+        "renewableresources:deepslate_coal_ore"
       ]
     }
   }

@@ -27,7 +27,7 @@
     ],
     "rewards": {
       "recipes": [
-        "heart_of_the_sea"
+        "renewableresources:heart_of_the_sea"
       ]
     }
   }

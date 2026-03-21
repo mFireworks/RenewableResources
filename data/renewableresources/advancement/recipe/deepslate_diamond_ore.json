@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "deepslate_diamond_ore"
+        "renewableresources:deepslate_diamond_ore"
       ]
     }
   }

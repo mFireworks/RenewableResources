@@ -29,7 +29,7 @@
     ],
     "rewards": {
       "recipes": [
-        "rooted_dirt"
+        "renewableresources:rooted_dirt"
       ]
     }
   }

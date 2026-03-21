@@ -30,7 +30,7 @@
     ],
     "rewards": {
       "recipes": [
-        "gilded_blackstone"
+        "renewableresources:gilded_blackstone"
       ]
     }
   }

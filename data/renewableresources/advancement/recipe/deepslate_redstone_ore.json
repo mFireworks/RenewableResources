@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "deepslate_redstone_ore"
+        "renewableresources:deepslate_redstone_ore"
       ]
     }
   }

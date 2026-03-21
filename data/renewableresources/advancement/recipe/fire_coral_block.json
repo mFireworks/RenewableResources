@@ -29,7 +29,7 @@
     ],
     "rewards": {
       "recipes": [
-        "fire_coral_block"
+        "renewableresources:fire_coral_block"
       ]
     }
   }

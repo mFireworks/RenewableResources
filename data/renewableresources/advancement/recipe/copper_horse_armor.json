@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "copper_horse_armor"
+        "renewableresources:copper_horse_armor"
       ]
     }
   }

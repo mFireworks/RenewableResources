@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "piglin_banner_pattern"
+        "renewableresources:piglin_banner_pattern"
       ]
     }
   }

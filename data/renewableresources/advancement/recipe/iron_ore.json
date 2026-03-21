@@ -29,7 +29,7 @@
     ],
     "rewards": {
       "recipes": [
-        "iron_ore"
+        "renewableresources:iron_ore"
       ]
     }
   }

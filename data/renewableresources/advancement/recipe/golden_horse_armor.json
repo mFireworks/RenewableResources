@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "golden_horse_armor"
+        "renewableresources:golden_horse_armor"
       ]
     }
   }

@@ -27,7 +27,7 @@
     ],
     "rewards": {
       "recipes": [
-        "danger_pottery_sherd"
+        "renewableresources:danger_pottery_sherd"
       ]
     }
   }

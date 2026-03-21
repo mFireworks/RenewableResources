@@ -29,7 +29,7 @@
     ],
     "rewards": {
       "recipes": [
-        "gold_ore"
+        "renewableresources:gold_ore"
       ]
     }
   }

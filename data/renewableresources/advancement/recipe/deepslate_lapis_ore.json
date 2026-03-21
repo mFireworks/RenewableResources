@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "deepslate_lapis_ore"
+        "renewableresources:deepslate_lapis_ore"
       ]
     }
   }

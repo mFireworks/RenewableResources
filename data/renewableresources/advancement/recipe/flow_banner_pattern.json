@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "flow_banner_pattern"
+        "renewableresources:flow_banner_pattern"
       ]
     }
   }

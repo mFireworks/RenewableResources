@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "nether_quartz_ore"
+        "renewableresources:nether_quartz_ore"
       ]
     }
   }

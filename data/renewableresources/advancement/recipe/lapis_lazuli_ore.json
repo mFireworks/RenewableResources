@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "lapis_lazuli_ore"
+        "renewableresources:lapis_lazuli_ore"
       ]
     }
   }

@@ -29,7 +29,7 @@
     ],
     "rewards": {
       "recipes": [
-        "copper_ore"
+        "renewableresources:copper_ore"
       ]
     }
   }

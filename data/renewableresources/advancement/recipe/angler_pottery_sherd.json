@@ -27,7 +27,7 @@
     ],
     "rewards": {
       "recipes": [
-        "angler_pottery_sherd"
+        "renewableresources:angler_pottery_sherd"
       ]
     }
   }

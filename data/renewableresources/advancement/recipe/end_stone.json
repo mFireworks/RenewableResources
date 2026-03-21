@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "end_stone"
+        "renewableresources:end_stone"
       ]
     }
   }

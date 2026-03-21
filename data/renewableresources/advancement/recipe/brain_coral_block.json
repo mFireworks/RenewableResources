@@ -29,7 +29,7 @@
     ],
     "rewards": {
       "recipes": [
-        "brain_coral_block"
+        "renewableresources:brain_coral_block"
       ]
     }
   }

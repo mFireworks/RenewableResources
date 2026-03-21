@@ -28,7 +28,7 @@
     ],
     "rewards": {
       "recipes": [
-        "red_sand"
+        "renewableresources:red_sand"
       ]
     }
   }

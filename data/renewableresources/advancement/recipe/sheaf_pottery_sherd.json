@@ -27,7 +27,7 @@
     ],
     "rewards": {
       "recipes": [
-        "sheaf_pottery_sherd"
+        "renewableresources:sheaf_pottery_sherd"
       ]
     }
   }

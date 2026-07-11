@@ -39,6 +39,7 @@ Within Minecraft, there's a wide range of blocks and items that have a finite am
 | 1 Creaking Heart, 4 Sea Lanterns, 4 Prismarine Shards | 1 Heart of the Sea |
 | 2 Sand, 2 Suspicious Sand | 4 Suspicious Sand |
 | 2 Gravel, 2 Suspicious Gravel | 4 Suspicious Gravel |
+| 2 Cobblestone, 2 Netherrack | 4 Cinnabar |
 
 ### Pottery Sherd Recipes
 
@@ -74,10 +75,11 @@ Pottery Sherds follow the same pattern as Smithing Templates, requiring one sher
 
 | Mob/Block | Drop Condition |
 | --------- | -------------- |
+| Cave Spider | Drops Bounce Music Disc when killed by a Skeleton within a Sulfur Cave Mineshaft |
 | Guardian | Rarely drops 1 Wet Sponge (2.5% without looting) |
 | Husk | Drops 0-4 Sand upon death |
 | Husk | Drops Relic Music Disc when killed by a Parched |
-| Husk | Drops Creator or Precipice Music Disc when killed by a Bogged when within a Trial Chamber |
+| Husk | Drops Creator or Precipice Music Disc when killed by a Bogged within a Trial Chamber |
 | Parched | Drops 0-4 Sand upon death |
 | Camel Husk | Drops 0-4 Sand upon death |
 | Drowned | Drops Otherside Music Disc when killed by skeleton |

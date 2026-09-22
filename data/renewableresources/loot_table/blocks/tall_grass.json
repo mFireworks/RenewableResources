@@ -31,6 +31,10 @@
             {
               "type": "minecraft:item",
               "condition": "minecraft:tool/can_shear",
+              "modifier": {
+                "type": "minecraft:set_count",
+                "count": 1
+              },
               "name": "minecraft:tall_grass"
             },
             {
@@ -81,6 +85,9 @@
             {
               "type": "minecraft:item",
               "condition": "minecraft:tool/can_shear",
+              "modifier": {
+                "type": "minecraft:discard"
+              },
               "name": "minecraft:tall_grass"
             },
             {

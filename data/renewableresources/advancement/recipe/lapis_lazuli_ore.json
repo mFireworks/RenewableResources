@@ -15,7 +15,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "lapis_lazuli_ore"
+          "recipes": "renewableresources:lapis_lazuli_ore"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

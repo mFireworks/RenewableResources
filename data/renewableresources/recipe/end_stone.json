@@ -8,7 +8,10 @@
     ],
     "key": {
         "#": "minecraft:blaze_powder",
-        "S": "minecraft:stone",
+        "S": [
+            "minecraft:stone",
+            "minecraft:cobblestone"
+        ],
         "P": "minecraft:popped_chorus_fruit"
     },
     "result": {

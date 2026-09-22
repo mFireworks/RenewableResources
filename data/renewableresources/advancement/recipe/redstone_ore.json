@@ -15,7 +15,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "redstone_ore"
+          "recipes": "renewableresources:redstone_ore"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

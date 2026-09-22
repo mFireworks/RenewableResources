@@ -15,7 +15,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "red_sandstone"
+          "recipes": "renewableresources:red_sandstone"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

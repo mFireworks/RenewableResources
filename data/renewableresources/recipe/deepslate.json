@@ -3,13 +3,15 @@
     "category": "building",
     "pattern": [
         "#S#",
-        "SOS",
+        "S#S",
         "#S#"
     ],
     "key": {
         "#": "minecraft:blackstone",
-        "S": "minecraft:stone",
-        "O": "minecraft:obsidian"
+        "S": [
+            "minecraft:stone",
+            "minecraft:cobblestone"
+        ]
     },
     "result": {
         "id": "minecraft:deepslate",

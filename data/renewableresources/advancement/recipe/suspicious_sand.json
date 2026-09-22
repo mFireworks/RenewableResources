@@ -14,7 +14,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "suspicious_sand"
+          "recipes": "renewableresources:suspicious_sand"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

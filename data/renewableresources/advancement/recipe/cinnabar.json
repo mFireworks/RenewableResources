@@ -16,7 +16,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "cinnabar"
+          "recipes": "renewableresources:cinnabar"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

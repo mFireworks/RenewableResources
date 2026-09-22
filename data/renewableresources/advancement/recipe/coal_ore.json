@@ -15,7 +15,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "coal_ore"
+          "recipes": "renewableresources:coal_ore"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

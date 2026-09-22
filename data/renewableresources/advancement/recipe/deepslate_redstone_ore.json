@@ -15,7 +15,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "deepslate_redstone_ore"
+          "recipes": "renewableresources:deepslate_redstone_ore"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

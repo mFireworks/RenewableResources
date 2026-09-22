@@ -17,7 +17,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "enchanted_golden_apple"
+          "recipes": "renewableresources:enchanted_golden_apple"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

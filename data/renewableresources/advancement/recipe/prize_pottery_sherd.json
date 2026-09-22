@@ -14,7 +14,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "prize_pottery_sherd"
+          "recipes": "renewableresources:prize_pottery_sherd"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

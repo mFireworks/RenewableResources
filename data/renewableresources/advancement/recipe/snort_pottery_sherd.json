@@ -14,7 +14,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "snort_pottery_sherd"
+          "recipes": "renewableresources:snort_pottery_sherd"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

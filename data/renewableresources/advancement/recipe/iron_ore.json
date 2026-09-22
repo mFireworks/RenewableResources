@@ -16,7 +16,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "iron_ore"
+          "recipes": "renewableresources:iron_ore"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

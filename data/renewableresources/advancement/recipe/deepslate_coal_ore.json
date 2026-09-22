@@ -15,7 +15,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "deepslate_coal_ore"
+          "recipes": "renewableresources:deepslate_coal_ore"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

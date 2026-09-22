@@ -2,13 +2,15 @@
     "type": "minecraft:crafting_shaped",
     "category": "building",
     "pattern": [
-        "#S#",
-        "SMS",
-        "#S#"
+        "MCM",
+        "CMC",
+        "MCM"
     ],
     "key": {
-        "#": "minecraft:nether_wart",
-        "S": "minecraft:stone",
+        "C": [
+            "minecraft:cobblestone",
+            "minecraft:stone"
+        ],
         "M": "minecraft:magma_cream"
     },
     "result": {

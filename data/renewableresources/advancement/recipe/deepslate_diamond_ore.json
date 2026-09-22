@@ -15,7 +15,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "deepslate_diamond_ore"
+          "recipes": "renewableresources:deepslate_diamond_ore"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

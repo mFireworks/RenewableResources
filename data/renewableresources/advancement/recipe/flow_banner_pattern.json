@@ -15,7 +15,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "flow_banner_pattern"
+          "recipes": "renewableresources:flow_banner_pattern"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

@@ -16,7 +16,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "fire_coral_block"
+          "recipes": "renewableresources:fire_coral_block"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

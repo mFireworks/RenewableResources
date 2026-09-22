@@ -14,7 +14,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "miner_pottery_sherd"
+          "recipes": "renewableresources:miner_pottery_sherd"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

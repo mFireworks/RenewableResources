@@ -16,7 +16,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "gold_ore"
+          "recipes": "renewableresources:gold_ore"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

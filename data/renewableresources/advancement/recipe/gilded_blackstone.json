@@ -17,7 +17,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "gilded_blackstone"
+          "recipes": "renewableresources:gilded_blackstone"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

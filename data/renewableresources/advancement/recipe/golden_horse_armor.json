@@ -15,7 +15,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "golden_horse_armor"
+          "recipes": "renewableresources:golden_horse_armor"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

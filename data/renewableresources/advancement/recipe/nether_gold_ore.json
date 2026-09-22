@@ -15,7 +15,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "nether_gold_ore"
+          "recipes": "renewableresources:nether_gold_ore"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

@@ -16,7 +16,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "horn_coral_block"
+          "recipes": "renewableresources:horn_coral_block"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

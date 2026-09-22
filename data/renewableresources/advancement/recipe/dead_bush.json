@@ -16,7 +16,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "dead_bush"
+          "recipes": "renewableresources:dead_bush"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

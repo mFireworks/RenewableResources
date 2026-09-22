@@ -15,7 +15,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "guster_banner_pattern"
+          "recipes": "renewableresources:guster_banner_pattern"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

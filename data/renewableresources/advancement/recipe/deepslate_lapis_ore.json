@@ -15,7 +15,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "deepslate_lapis_ore"
+          "recipes": "renewableresources:deepslate_lapis_ore"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

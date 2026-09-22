@@ -16,7 +16,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "deepslate_iron_ore"
+          "recipes": "renewableresources:deepslate_iron_ore"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

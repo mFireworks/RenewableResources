@@ -16,7 +16,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "bubble_coral_block"
+          "recipes": "renewableresources:bubble_coral_block"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

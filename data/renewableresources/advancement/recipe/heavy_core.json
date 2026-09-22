@@ -15,7 +15,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "heavy_core"
+          "recipes": "renewableresources:heavy_core"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

@@ -17,7 +17,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "spore_blossom"
+          "recipes": "renewableresources:spore_blossom"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

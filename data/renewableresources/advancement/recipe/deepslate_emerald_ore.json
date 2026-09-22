@@ -15,7 +15,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "deepslate_emerald_ore"
+          "recipes": "renewableresources:deepslate_emerald_ore"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

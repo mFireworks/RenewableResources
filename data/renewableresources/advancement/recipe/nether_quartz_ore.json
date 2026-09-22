@@ -15,7 +15,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "nether_quartz_ore"
+          "recipes": "renewableresources:nether_quartz_ore"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

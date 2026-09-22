@@ -14,7 +14,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "heart_of_the_sea"
+          "recipes": "renewableresources:heart_of_the_sea"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

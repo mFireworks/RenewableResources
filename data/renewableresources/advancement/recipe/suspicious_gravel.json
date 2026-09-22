@@ -14,7 +14,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "suspicious_gravel"
+          "recipes": "renewableresources:suspicious_gravel"
         },
         "trigger": "minecraft:recipe_unlocked"
       }

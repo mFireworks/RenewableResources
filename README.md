@@ -14,9 +14,9 @@ Within Minecraft, there's a wide range of blocks and items that have a finite am
 | 8 String, 1 Slimeball | 1 Cobweb |
 | 2 Coral, 2 Coral Fans (all same color) | 1 Coral Block |
 | 1 Blaze Powder, 1 Fern | 1 Dead Bush |
-| 4 Stone, 4 Blackstone, 1 Obsidion | 9 Deepslate |
-| 4 Blaze Powder, 4 Stone, 1 Popped Chorus Fruit | 4 End Stone |
-| 4 Nether Wart, 4 Stone, 1 Magma Cream | 4 Netherrack |
+| 4 Stone/Cobblestone, 5 Blackstone | 9 Deepslate |
+| 4 Blaze Powder, 4 Stone/Cobblestone, 1 Popped Chorus Fruit | 4 End Stone |
+| 4 Stone/Cobblestone, 5 Magma Cream | 4 Netherrack |
 | 7 Copper/Iron/Gold/Diamond | Copper/Iron/Gold/Diamond Horse Armor |
 | 2 Sand, 1 Red Dye | 2 Red Sand |
 | 2 Sandstone, 1 Red Dye | 2 Red Sandstone |
